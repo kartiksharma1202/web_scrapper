@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Scraper</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Web Scraper</h1>
+        <div class="input-section">
+            <input type="text" id="urlInput" placeholder="Enter website URL">
+            <button onclick="checkScrapability()">Check</button>
+            <button onclick="scrapeWebsite()">Scrape</button>
+        </div>
+
+        <div id="statusMessage"></div>
+
+        <div class="output-container">
+            <div class="left">
+                <h2>Scraped Data</h2>
+                <div id="scrapedContent">No data yet.</div>
+            </div>
+            <div class="right">
+                <h2>Query</h2>
+                <input type="text" id="queryInput" placeholder="Ask a question about the website">
+                <button onclick="askQuery()">Ask</button>
+                <div id="queryResponse"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</body>
+</html>

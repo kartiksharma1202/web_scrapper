@@ -1,0 +1,520 @@
+2025-02-18 19:06:15,270 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 19:06:15,270 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 19:06:15,304 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:06:16,904 - WARNING -  * Debugger is active!
+2025-02-18 19:06:16,904 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:07:30,760 - INFO - 127.0.0.1 - - [18/Feb/2025 19:07:30] "GET / HTTP/1.1" 200 -
+2025-02-18 19:07:31,013 - INFO - 127.0.0.1 - - [18/Feb/2025 19:07:31] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 19:07:31,029 - INFO - 127.0.0.1 - - [18/Feb/2025 19:07:31] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 19:07:31,043 - INFO - 127.0.0.1 - - [18/Feb/2025 19:07:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-18 19:08:25,592 - INFO - Scraping started for: https://kiit.ac.in
+2025-02-18 19:08:25,770 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\events.py', reloading
+2025-02-18 19:08:25,774 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\base_events.py', reloading
+2025-02-18 19:08:25,774 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\windows_events.py', reloading
+2025-02-18 19:08:26,050 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-02-18 19:08:26,050 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\http\\server.py', reloading
+2025-02-18 19:08:26,056 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\socketserver.py', reloading
+2025-02-18 19:08:26,056 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\threading.py', reloading
+2025-02-18 19:08:27,161 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:08:28,943 - WARNING -  * Debugger is active!
+2025-02-18 19:08:28,959 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:08:39,161 - INFO - 127.0.0.1 - - [18/Feb/2025 19:08:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 19:09:57,547 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\logging\\__init__.py', reloading
+2025-02-18 19:09:58,671 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:10:00,332 - WARNING -  * Debugger is active!
+2025-02-18 19:10:00,332 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:15:05,351 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 19:15:05,351 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 19:15:05,366 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:15:06,910 - WARNING -  * Debugger is active!
+2025-02-18 19:15:06,915 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:15:11,385 - INFO - 127.0.0.1 - - [18/Feb/2025 19:15:11] "GET / HTTP/1.1" 200 -
+2025-02-18 19:15:11,505 - INFO - 127.0.0.1 - - [18/Feb/2025 19:15:11] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 19:15:11,548 - INFO - 127.0.0.1 - - [18/Feb/2025 19:15:11] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 19:15:29,169 - INFO - Scraping started for: https://kiit.ac.in/about/
+2025-02-18 19:15:33,833 - ERROR - LLM error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-02-18 19:15:33,834 - INFO - Scraping completed for: https://kiit.ac.in/about/
+2025-02-18 19:15:33,834 - INFO - 127.0.0.1 - - [18/Feb/2025 19:15:33] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 19:15:59,634 - INFO - 127.0.0.1 - - [18/Feb/2025 19:15:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 19:19:19,423 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 19:19:19,423 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 19:19:19,429 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:19:21,070 - WARNING -  * Debugger is active!
+2025-02-18 19:19:21,075 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:19:24,000 - INFO - 127.0.0.1 - - [18/Feb/2025 19:19:24] "GET / HTTP/1.1" 200 -
+2025-02-18 19:19:24,127 - INFO - 127.0.0.1 - - [18/Feb/2025 19:19:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 19:19:24,127 - INFO - 127.0.0.1 - - [18/Feb/2025 19:19:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 19:19:34,020 - INFO - Scraping started for: https://kiit.ac.in/about/
+2025-02-18 19:19:38,243 - ERROR - LLM error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-02-18 19:19:38,243 - INFO - Scraping completed for: https://kiit.ac.in/about/
+2025-02-18 19:19:38,243 - INFO - 127.0.0.1 - - [18/Feb/2025 19:19:38] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 19:21:42,186 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 19:21:42,186 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 19:21:42,198 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:21:43,656 - WARNING -  * Debugger is active!
+2025-02-18 19:21:43,656 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:22:07,137 - INFO - 127.0.0.1 - - [18/Feb/2025 19:22:07] "GET / HTTP/1.1" 200 -
+2025-02-18 19:22:07,298 - INFO - 127.0.0.1 - - [18/Feb/2025 19:22:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 19:22:07,298 - INFO - 127.0.0.1 - - [18/Feb/2025 19:22:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 19:22:17,884 - INFO - Scraping started for: https://kiit.ac.in/about/
+2025-02-18 19:22:22,290 - ERROR - LLM error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-02-18 19:22:22,290 - INFO - Scraping completed for: https://kiit.ac.in/about/
+2025-02-18 19:22:22,290 - INFO - 127.0.0.1 - - [18/Feb/2025 19:22:22] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 19:24:27,831 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 19:24:27,831 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 19:24:27,846 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:24:29,633 - WARNING -  * Debugger is active!
+2025-02-18 19:24:29,637 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:24:32,378 - INFO - 127.0.0.1 - - [18/Feb/2025 19:24:32] "GET / HTTP/1.1" 200 -
+2025-02-18 19:24:32,494 - INFO - 127.0.0.1 - - [18/Feb/2025 19:24:32] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 19:24:32,512 - INFO - 127.0.0.1 - - [18/Feb/2025 19:24:32] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 19:24:40,702 - INFO - Scraping started for: https://kiit.ac.in/about/
+2025-02-18 19:25:52,386 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 19:25:52,393 - INFO - Scraping completed for: https://kiit.ac.in/about/
+2025-02-18 19:25:52,395 - INFO - 127.0.0.1 - - [18/Feb/2025 19:25:52] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 19:28:08,141 - INFO - Scraping started for: https://www.youtube.com/
+2025-02-18 19:41:37,301 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 19:41:37,301 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 19:41:37,317 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:41:39,176 - WARNING -  * Debugger is active!
+2025-02-18 19:41:39,187 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:41:54,719 - INFO - 127.0.0.1 - - [18/Feb/2025 19:41:54] "GET / HTTP/1.1" 200 -
+2025-02-18 19:41:54,938 - INFO - 127.0.0.1 - - [18/Feb/2025 19:41:54] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 19:41:54,998 - INFO - 127.0.0.1 - - [18/Feb/2025 19:41:54] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 19:43:00,696 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 19:43:53,939 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 19:43:53,941 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 19:43:53,942 - INFO - 127.0.0.1 - - [18/Feb/2025 19:43:53] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 19:45:22,231 - INFO - Scraping started for: https://obenelectric.com/
+2025-02-18 19:45:43,888 - INFO - 127.0.0.1 - - [18/Feb/2025 19:45:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 19:49:53,473 - INFO - 127.0.0.1 - - [18/Feb/2025 19:49:53] "GET / HTTP/1.1" 200 -
+2025-02-18 19:49:53,502 - INFO - 127.0.0.1 - - [18/Feb/2025 19:49:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 19:49:53,506 - INFO - 127.0.0.1 - - [18/Feb/2025 19:49:53] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 19:50:18,579 - INFO - Scraping started for: https://obenelectric.com/
+2025-02-18 19:52:34,536 - INFO - Scraping started for: https://obenelectric.com/
+2025-02-18 19:55:38,739 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 19:55:38,739 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 19:55:38,752 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 19:55:40,497 - WARNING -  * Debugger is active!
+2025-02-18 19:55:40,497 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 19:55:43,651 - INFO - 127.0.0.1 - - [18/Feb/2025 19:55:43] "GET / HTTP/1.1" 200 -
+2025-02-18 19:55:43,763 - INFO - 127.0.0.1 - - [18/Feb/2025 19:55:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 19:55:43,769 - INFO - 127.0.0.1 - - [18/Feb/2025 19:55:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 19:56:19,531 - INFO - Scraping started for: https://obenelectric.com
+2025-02-18 19:57:49,673 - INFO - 127.0.0.1 - - [18/Feb/2025 19:57:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 19:59:23,811 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:00:13,043 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 20:00:13,043 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:00:13,043 - INFO - 127.0.0.1 - - [18/Feb/2025 20:00:13] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:00:46,510 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:01:11,459 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 20:01:11,461 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:01:11,461 - INFO - 127.0.0.1 - - [18/Feb/2025 20:01:11] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:08:13,985 - INFO -  * Detected change in 'C:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:08:13,987 - INFO -  * Detected change in 'C:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:08:15,200 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:08:17,230 - WARNING -  * Debugger is active!
+2025-02-18 20:08:17,231 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:08:52,490 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:08:52,490 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:08:52,507 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:08:54,200 - WARNING -  * Debugger is active!
+2025-02-18 20:08:54,200 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:08:58,070 - INFO - 127.0.0.1 - - [18/Feb/2025 20:08:58] "GET / HTTP/1.1" 200 -
+2025-02-18 20:08:58,154 - INFO - 127.0.0.1 - - [18/Feb/2025 20:08:58] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 20:08:58,154 - INFO - 127.0.0.1 - - [18/Feb/2025 20:08:58] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 20:09:22,526 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:09:22,935 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_connection.py', reloading
+2025-02-18 20:09:22,946 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\events.py', reloading
+2025-02-18 20:09:22,951 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\base_events.py', reloading
+2025-02-18 20:09:22,951 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\windows_events.py', reloading
+2025-02-18 20:09:22,951 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\sync_api\\_context_manager.py', reloading
+2025-02-18 20:09:22,980 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_sync_base.py', reloading
+2025-02-18 20:09:22,983 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\sync_api\\_generated.py', reloading
+2025-02-18 20:09:22,993 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2025-02-18 20:09:22,999 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-02-18 20:09:22,999 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-02-18 20:09:22,999 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\http\\server.py', reloading
+2025-02-18 20:09:22,999 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\socketserver.py', reloading
+2025-02-18 20:09:23,014 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\threading.py', reloading
+2025-02-18 20:09:23,014 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_browser_type.py', reloading
+2025-02-18 20:09:23,118 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_browser.py', reloading
+2025-02-18 20:09:23,127 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_browser_context.py', reloading
+2025-02-18 20:09:23,197 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_page.py', reloading
+2025-02-18 20:09:23,222 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_frame.py', reloading
+2025-02-18 20:09:24,482 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:09:26,370 - WARNING -  * Debugger is active!
+2025-02-18 20:09:26,370 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:09:32,485 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:10:07,411 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 20:10:07,411 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:10:07,411 - INFO - 127.0.0.1 - - [18/Feb/2025 20:10:07] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:10:15,028 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:10:33,494 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 20:10:33,495 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:10:33,496 - INFO - 127.0.0.1 - - [18/Feb/2025 20:10:33] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:12:11,079 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\bs4\\__init__.py', reloading
+2025-02-18 20:12:11,405 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\requests\\__init__.py', reloading
+2025-02-18 20:12:12,571 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:12:14,894 - WARNING -  * Debugger is active!
+2025-02-18 20:12:14,910 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:12:46,043 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:12:46,043 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:12:46,043 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:12:47,192 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:12:48,975 - WARNING -  * Debugger is active!
+2025-02-18 20:12:48,986 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:13:09,742 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:13:09,742 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:13:09,754 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:13:11,382 - WARNING -  * Debugger is active!
+2025-02-18 20:13:11,387 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:13:25,214 - INFO - 127.0.0.1 - - [18/Feb/2025 20:13:25] "GET / HTTP/1.1" 200 -
+2025-02-18 20:13:25,308 - INFO - 127.0.0.1 - - [18/Feb/2025 20:13:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 20:13:25,308 - INFO - 127.0.0.1 - - [18/Feb/2025 20:13:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 20:13:47,379 - INFO - 127.0.0.1 - - [18/Feb/2025 20:13:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 20:14:13,869 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:14:19,419 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-18 20:14:19,420 - ERROR - LLM error: model "deepseek-r1-1.5b" not found, try pulling it first (status code: 404)
+2025-02-18 20:14:19,420 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:14:19,420 - INFO - 127.0.0.1 - - [18/Feb/2025 20:14:19] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:14:28,578 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+2025-02-18 20:14:29,873 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:14:31,964 - WARNING -  * Debugger is active!
+2025-02-18 20:14:31,964 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:15:35,308 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:15:35,308 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:15:35,325 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:15:37,090 - WARNING -  * Debugger is active!
+2025-02-18 20:15:37,091 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:15:40,249 - INFO - 127.0.0.1 - - [18/Feb/2025 20:15:40] "GET / HTTP/1.1" 200 -
+2025-02-18 20:15:40,352 - INFO - 127.0.0.1 - - [18/Feb/2025 20:15:40] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 20:15:40,352 - INFO - 127.0.0.1 - - [18/Feb/2025 20:15:40] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 20:15:57,994 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:16:02,097 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-18 20:16:02,098 - ERROR - LLM error: model "deepseek-r1-1.5b" not found, try pulling it first (status code: 404)
+2025-02-18 20:16:02,098 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:16:02,100 - INFO - 127.0.0.1 - - [18/Feb/2025 20:16:02] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:19:15,745 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:19:15,745 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:19:15,754 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:19:17,451 - WARNING -  * Debugger is active!
+2025-02-18 20:19:17,451 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:19:33,721 - INFO - 127.0.0.1 - - [18/Feb/2025 20:19:33] "GET / HTTP/1.1" 200 -
+2025-02-18 20:19:33,816 - INFO - 127.0.0.1 - - [18/Feb/2025 20:19:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 20:19:33,816 - INFO - 127.0.0.1 - - [18/Feb/2025 20:19:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 20:19:51,859 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:19:58,194 - ERROR - LLM error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-02-18 20:19:58,194 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:19:58,194 - INFO - 127.0.0.1 - - [18/Feb/2025 20:19:58] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:22:41,259 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:22:41,259 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:22:41,270 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:22:43,149 - WARNING -  * Debugger is active!
+2025-02-18 20:22:43,154 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:22:44,376 - INFO - 127.0.0.1 - - [18/Feb/2025 20:22:44] "GET / HTTP/1.1" 200 -
+2025-02-18 20:22:44,486 - INFO - 127.0.0.1 - - [18/Feb/2025 20:22:44] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 20:22:44,486 - INFO - 127.0.0.1 - - [18/Feb/2025 20:22:44] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 20:22:59,582 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:23:02,938 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-18 20:23:02,939 - ERROR - LLM error: model "deepseek-r1-1.5b" not found, try pulling it first (status code: 404)
+2025-02-18 20:23:02,939 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:23:02,939 - INFO - 127.0.0.1 - - [18/Feb/2025 20:23:02] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:24:39,948 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:24:39,948 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:24:39,965 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:24:41,863 - WARNING -  * Debugger is active!
+2025-02-18 20:24:41,871 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:24:43,685 - INFO - 127.0.0.1 - - [18/Feb/2025 20:24:43] "GET / HTTP/1.1" 200 -
+2025-02-18 20:24:43,780 - INFO - 127.0.0.1 - - [18/Feb/2025 20:24:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 20:24:43,790 - INFO - 127.0.0.1 - - [18/Feb/2025 20:24:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 20:25:05,371 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:25:10,319 - ERROR - LLM error: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-02-18 20:25:10,319 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:25:10,319 - INFO - 127.0.0.1 - - [18/Feb/2025 20:25:10] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:26:20,713 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:26:20,713 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:26:20,731 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:26:23,020 - WARNING -  * Debugger is active!
+2025-02-18 20:26:23,029 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:26:25,809 - INFO - 127.0.0.1 - - [18/Feb/2025 20:26:25] "GET / HTTP/1.1" 200 -
+2025-02-18 20:26:25,914 - INFO - 127.0.0.1 - - [18/Feb/2025 20:26:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 20:26:25,914 - INFO - 127.0.0.1 - - [18/Feb/2025 20:26:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 20:26:45,214 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:26:47,458 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-18 20:26:47,462 - ERROR - LLM error: model "deepseek-r1-1.5b" not found, try pulling it first (status code: 404)
+2025-02-18 20:26:47,462 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:26:47,462 - INFO - 127.0.0.1 - - [18/Feb/2025 20:26:47] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:27:26,669 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:27:29,836 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-18 20:27:29,837 - ERROR - LLM error: model "deepseek-r1-1.5b" not found, try pulling it first (status code: 404)
+2025-02-18 20:27:29,838 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:27:29,839 - INFO - 127.0.0.1 - - [18/Feb/2025 20:27:29] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:30:23,871 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:30:25,447 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-18 20:30:25,448 - ERROR - LLM error: model "deepseek-r1-1.5b" not found, try pulling it first (status code: 404)
+2025-02-18 20:30:25,448 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:30:25,448 - INFO - 127.0.0.1 - - [18/Feb/2025 20:30:25] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:32:51,025 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:32:51,025 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:32:51,036 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:32:53,417 - WARNING -  * Debugger is active!
+2025-02-18 20:32:53,419 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:32:54,089 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:32:57,736 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-18 20:32:57,736 - ERROR - LLM error: model "deepseek-r1-1.5b" not found, try pulling it first (status code: 404)
+2025-02-18 20:32:57,736 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:32:57,736 - INFO - 127.0.0.1 - - [18/Feb/2025 20:32:57] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:34:41,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 20:34:41,952 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 20:34:41,968 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:34:43,806 - WARNING -  * Debugger is active!
+2025-02-18 20:34:43,822 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:34:47,004 - INFO - Scraping started for: https://kiit.ac.in/
+2025-02-18 20:34:57,150 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 20:34:57,152 - INFO - Scraping completed for: https://kiit.ac.in/
+2025-02-18 20:34:57,153 - INFO - 127.0.0.1 - - [18/Feb/2025 20:34:57] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:35:16,775 - INFO - Scraping started for: https://obenelectric.com/
+2025-02-18 20:36:43,856 - INFO - Scraping started for: https://www.reddit.com/?rdt=39553
+2025-02-18 20:39:53,542 - INFO - 127.0.0.1 - - [18/Feb/2025 20:39:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 20:40:02,546 - INFO - Scraping started for: https://www.reddit.com
+2025-02-18 20:40:47,070 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 20:40:47,071 - INFO - Scraping completed for: https://www.reddit.com
+2025-02-18 20:40:47,071 - INFO - 127.0.0.1 - - [18/Feb/2025 20:40:47] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:44:35,142 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:44:36,337 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:44:38,269 - WARNING -  * Debugger is active!
+2025-02-18 20:44:38,269 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:44:41,292 - INFO - Scraping started for: https://www.reddit.com
+2025-02-18 20:45:05,319 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-18 20:45:05,319 - ERROR - LLM error: model "deepseek-r1-1.5b" not found, try pulling it first (status code: 404)
+2025-02-18 20:45:05,321 - INFO - Scraping completed for: https://www.reddit.com
+2025-02-18 20:45:05,321 - INFO - 127.0.0.1 - - [18/Feb/2025 20:45:05] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 20:45:19,274 - INFO - Scraping started for: https://www.reddit.com
+2025-02-18 20:45:23,014 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:45:23,017 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:45:23,017 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 20:45:24,138 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 20:45:25,913 - WARNING -  * Debugger is active!
+2025-02-18 20:45:25,929 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 20:45:26,676 - INFO - Scraping started for: https://www.reddit.com
+2025-02-18 20:45:58,714 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 20:45:58,714 - INFO - Scraping completed for: https://www.reddit.com
+2025-02-18 20:45:58,714 - INFO - 127.0.0.1 - - [18/Feb/2025 20:45:58] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 22:58:59,011 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 22:58:59,011 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 22:58:59,019 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 22:59:01,490 - WARNING -  * Debugger is active!
+2025-02-18 22:59:01,499 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 22:59:04,764 - INFO - Scraping started for: https://www.reddit.com
+2025-02-18 22:59:04,995 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_connection.py', reloading
+2025-02-18 22:59:04,995 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\events.py', reloading
+2025-02-18 22:59:04,995 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\base_events.py', reloading
+2025-02-18 22:59:04,995 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\windows_events.py', reloading
+2025-02-18 22:59:04,995 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\sync_api\\_context_manager.py', reloading
+2025-02-18 22:59:05,405 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_sync_base.py', reloading
+2025-02-18 22:59:05,413 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\sync_api\\_generated.py', reloading
+2025-02-18 22:59:05,417 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2025-02-18 22:59:05,419 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-02-18 22:59:05,419 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-02-18 22:59:05,421 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\http\\server.py', reloading
+2025-02-18 22:59:05,421 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\socketserver.py', reloading
+2025-02-18 22:59:05,421 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\threading.py', reloading
+2025-02-18 22:59:05,421 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_browser_type.py', reloading
+2025-02-18 22:59:05,528 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_browser.py', reloading
+2025-02-18 22:59:06,706 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 22:59:09,572 - WARNING -  * Debugger is active!
+2025-02-18 22:59:09,587 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 23:01:25,437 - INFO - Scraping started for: https://www.reddit.com
+2025-02-18 23:04:11,996 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 23:04:11,998 - INFO - Scraping completed for: https://www.reddit.com
+2025-02-18 23:04:11,999 - INFO - 127.0.0.1 - - [18/Feb/2025 23:04:11] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 23:05:47,817 - INFO - Scraping started for: https://webscraper.io/test-sites
+2025-02-18 23:09:54,586 - ERROR - Failed to fetch https://webscraper.io/tutorials: Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://webscraper.io/tutorials", waiting until "load"
+
+2025-02-18 23:13:29,826 - ERROR - Failed to fetch https://webscraper.io/downloads/Web_Scraper_Media_Kit.zip: Page.goto: net::ERR_ABORTED at https://webscraper.io/downloads/Web_Scraper_Media_Kit.zip
+Call log:
+  - navigating to "https://webscraper.io/downloads/Web_Scraper_Media_Kit.zip", waiting until "load"
+
+2025-02-18 23:20:36,364 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 23:20:36,364 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 23:20:36,383 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 23:20:38,602 - WARNING -  * Debugger is active!
+2025-02-18 23:20:38,603 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 23:21:03,061 - INFO - Scraping started for: https://webscraper.io/test-sites
+2025-02-18 23:23:42,224 - INFO - 127.0.0.1 - - [18/Feb/2025 23:23:42] "GET / HTTP/1.1" 200 -
+2025-02-18 23:23:42,348 - INFO - 127.0.0.1 - - [18/Feb/2025 23:23:42] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 23:23:42,390 - INFO - 127.0.0.1 - - [18/Feb/2025 23:23:42] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 23:24:04,186 - INFO - Scraping started for: https://webscraper.io/test-sites
+2025-02-18 23:24:17,304 - INFO - 127.0.0.1 - - [18/Feb/2025 23:24:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:26:22,851 - INFO - Scraping started for: https://webscraper.io/test-sites
+2025-02-18 23:26:37,567 - ERROR - Failed to fetch https://webscraper.io/: Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://webscraper.io/", waiting until "load"
+
+2025-02-18 23:29:23,602 - ERROR - Failed to fetch https://webscraper.io/downloads/Web_Scraper_Media_Kit.zip: Page.goto: net::ERR_ABORTED at https://webscraper.io/downloads/Web_Scraper_Media_Kit.zip
+Call log:
+  - navigating to "https://webscraper.io/downloads/Web_Scraper_Media_Kit.zip", waiting until "load"
+
+2025-02-18 23:31:44,459 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 23:31:44,459 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 23:31:44,459 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 23:31:46,317 - WARNING -  * Debugger is active!
+2025-02-18 23:31:46,317 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 23:31:48,387 - INFO - 127.0.0.1 - - [18/Feb/2025 23:31:48] "GET / HTTP/1.1" 200 -
+2025-02-18 23:31:48,466 - INFO - 127.0.0.1 - - [18/Feb/2025 23:31:48] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-18 23:31:48,466 - INFO - 127.0.0.1 - - [18/Feb/2025 23:31:48] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 23:32:13,477 - INFO - Scraping started for: https://www.scrapethissite.com
+2025-02-18 23:33:20,937 - INFO - 127.0.0.1 - - [18/Feb/2025 23:33:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:38:51,083 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 23:38:51,083 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 23:38:51,083 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 23:38:52,495 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 23:38:55,131 - WARNING -  * Debugger is active!
+2025-02-18 23:38:55,134 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 23:39:02,771 - INFO - 127.0.0.1 - - [18/Feb/2025 23:39:02] "GET / HTTP/1.1" 200 -
+2025-02-18 23:39:02,867 - INFO - 127.0.0.1 - - [18/Feb/2025 23:39:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:39:02,872 - INFO - 127.0.0.1 - - [18/Feb/2025 23:39:02] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 23:39:15,707 - INFO - Scraping started for: https://www.scrapethissite.com/pages/
+2025-02-18 23:41:16,460 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 23:41:16,461 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 23:41:16,465 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 23:41:18,197 - WARNING -  * Debugger is active!
+2025-02-18 23:41:18,197 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 23:41:18,229 - INFO - 127.0.0.1 - - [18/Feb/2025 23:41:18] "GET / HTTP/1.1" 200 -
+2025-02-18 23:41:18,307 - INFO - 127.0.0.1 - - [18/Feb/2025 23:41:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:41:18,307 - INFO - 127.0.0.1 - - [18/Feb/2025 23:41:18] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 23:41:30,454 - INFO - Scraping started for: https://www.scrapethissite.com/pages/
+2025-02-18 23:43:37,078 - INFO - Scraping started for: https://www.scrapethissite.com/pages/
+2025-02-18 23:45:06,077 - INFO - 127.0.0.1 - - [18/Feb/2025 23:45:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:45:50,372 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 23:45:50,377 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 23:45:50,378 - INFO -  * Detected change in 'c:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-18 23:45:51,549 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 23:45:53,449 - WARNING -  * Debugger is active!
+2025-02-18 23:45:53,449 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 23:45:57,404 - INFO - 127.0.0.1 - - [18/Feb/2025 23:45:57] "GET / HTTP/1.1" 200 -
+2025-02-18 23:45:57,508 - INFO - 127.0.0.1 - - [18/Feb/2025 23:45:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 23:45:57,508 - INFO - 127.0.0.1 - - [18/Feb/2025 23:45:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:46:17,697 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 23:46:17,697 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 23:46:17,710 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 23:46:19,540 - WARNING -  * Debugger is active!
+2025-02-18 23:46:19,540 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 23:46:26,027 - INFO - 127.0.0.1 - - [18/Feb/2025 23:46:26] "GET / HTTP/1.1" 200 -
+2025-02-18 23:46:26,125 - INFO - 127.0.0.1 - - [18/Feb/2025 23:46:26] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:46:26,125 - INFO - 127.0.0.1 - - [18/Feb/2025 23:46:26] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 23:46:54,044 - INFO - Scraping started for: https://www.scrapethissite.com
+2025-02-18 23:49:43,344 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 23:49:43,348 - INFO - Scraping completed for: https://www.scrapethissite.com
+2025-02-18 23:49:43,348 - INFO - 127.0.0.1 - - [18/Feb/2025 23:49:43] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 23:51:30,092 - INFO - 127.0.0.1 - - [18/Feb/2025 23:51:30] "GET / HTTP/1.1" 200 -
+2025-02-18 23:51:30,114 - INFO - 127.0.0.1 - - [18/Feb/2025 23:51:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:51:30,156 - INFO - 127.0.0.1 - - [18/Feb/2025 23:51:30] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 23:51:48,204 - INFO - Scraping started for: https://www.scrapethissite.com/pages/
+2025-02-18 23:52:50,573 - INFO - 127.0.0.1 - - [18/Feb/2025 23:52:50] "GET / HTTP/1.1" 200 -
+2025-02-18 23:52:50,601 - INFO - 127.0.0.1 - - [18/Feb/2025 23:52:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:52:50,603 - INFO - 127.0.0.1 - - [18/Feb/2025 23:52:50] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-18 23:53:02,349 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-18 23:53:02,349 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-18 23:53:02,365 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-18 23:53:04,233 - WARNING -  * Debugger is active!
+2025-02-18 23:53:04,241 - INFO -  * Debugger PIN: 457-216-587
+2025-02-18 23:53:06,579 - INFO - 127.0.0.1 - - [18/Feb/2025 23:53:06] "GET / HTTP/1.1" 200 -
+2025-02-18 23:53:06,669 - INFO - 127.0.0.1 - - [18/Feb/2025 23:53:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-18 23:53:06,669 - INFO - 127.0.0.1 - - [18/Feb/2025 23:53:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2025-02-18 23:53:29,216 - INFO - Scraping started for: https://www.scrapethissite.com
+2025-02-18 23:56:51,937 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 23:56:51,945 - INFO - Scraping completed for: https://www.scrapethissite.com
+2025-02-18 23:56:51,946 - INFO - 127.0.0.1 - - [18/Feb/2025 23:56:51] "POST /scrape HTTP/1.1" 200 -
+2025-02-18 23:58:07,185 - INFO - Scraping started for: https://www.scrapethissite.com
+2025-02-18 23:58:17,958 - ERROR - Failed to fetch https://www.scrapethissite.com: Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://www.scrapethissite.com/", waiting until "load"
+
+2025-02-18 23:58:41,350 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-18 23:58:41,350 - INFO - Scraping completed for: https://www.scrapethissite.com
+2025-02-18 23:58:41,350 - INFO - 127.0.0.1 - - [18/Feb/2025 23:58:41] "POST /scrape HTTP/1.1" 200 -
+2025-02-19 00:00:59,928 - INFO - Scraping started for: https://www.scrapethissite.com
+2025-02-19 00:01:52,918 - ERROR - Failed to fetch https://www.scrapethissite.com/lessons/: Page.goto: Timeout 10000ms exceeded.
+Call log:
+  - navigating to "https://www.scrapethissite.com/lessons/", waiting until "load"
+
+2025-02-19 00:02:15,950 - INFO - 127.0.0.1 - - [19/Feb/2025 00:02:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-19 00:03:47,541 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-19 00:03:47,547 - INFO - Scraping completed for: https://www.scrapethissite.com
+2025-02-19 00:03:47,548 - INFO - 127.0.0.1 - - [19/Feb/2025 00:03:47] "POST /scrape HTTP/1.1" 200 -
+2025-02-22 20:07:07,957 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 20:07:07,957 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 20:07:07,984 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-22 20:07:09,673 - WARNING -  * Debugger is active!
+2025-02-22 20:07:09,689 - INFO -  * Debugger PIN: 457-216-587
+2025-02-22 20:07:58,834 - INFO - 127.0.0.1 - - [22/Feb/2025 20:07:58] "GET / HTTP/1.1" 200 -
+2025-02-22 20:07:58,999 - INFO - 127.0.0.1 - - [22/Feb/2025 20:07:58] "GET /static/script.js HTTP/1.1" 200 -
+2025-02-22 20:07:59,016 - INFO - 127.0.0.1 - - [22/Feb/2025 20:07:59] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-22 20:07:59,040 - INFO - 127.0.0.1 - - [22/Feb/2025 20:07:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 20:08:33,885 - INFO - Scraping started for: https://www.scrapethissite.com
+2025-02-22 20:08:37,499 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\_impl\\_connection.py', reloading
+2025-02-22 20:08:37,499 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\events.py', reloading
+2025-02-22 20:08:37,499 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\base_events.py', reloading
+2025-02-22 20:08:37,499 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\asyncio\\windows_events.py', reloading
+2025-02-22 20:08:39,081 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-22 20:08:40,848 - WARNING -  * Debugger is active!
+2025-02-22 20:08:40,848 - INFO -  * Debugger PIN: 457-216-587
+2025-02-22 20:09:17,437 - INFO - 127.0.0.1 - - [22/Feb/2025 20:09:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 21:20:20,888 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 21:20:20,888 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 21:20:20,900 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-22 21:20:22,327 - WARNING -  * Debugger is active!
+2025-02-22 21:20:22,327 - INFO -  * Debugger PIN: 457-216-587
+2025-02-22 21:20:28,607 - INFO - 127.0.0.1 - - [22/Feb/2025 21:20:28] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-22 21:21:18,174 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\playwright\\sync_api\\__init__.py', reloading
+2025-02-22 21:21:19,288 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-22 21:21:20,952 - WARNING -  * Debugger is active!
+2025-02-22 21:21:20,954 - INFO -  * Debugger PIN: 457-216-587
+2025-02-22 21:21:21,590 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+2025-02-22 21:21:21,636 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\fixtures.py', reloading
+2025-02-22 21:21:21,700 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\config\\__init__.py', reloading
+2025-02-22 21:21:21,789 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\capture.py', reloading
+2025-02-22 21:21:21,858 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\doctest.py', reloading
+2025-02-22 21:21:21,906 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\compat.py', reloading
+2025-02-22 21:21:21,921 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\junitxml.py', reloading
+2025-02-22 21:21:21,965 - INFO -  * Detected change in 'C:\\Users\\KIIT\\anaconda3\\Lib\\site-packages\\_pytest\\legacypath.py', reloading
+2025-02-22 21:21:23,090 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-22 21:21:24,521 - WARNING -  * Debugger is active!
+2025-02-22 21:21:24,536 - INFO -  * Debugger PIN: 457-216-587
+2025-02-22 21:21:40,388 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 21:21:40,388 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 21:21:40,402 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-22 21:21:41,893 - WARNING -  * Debugger is active!
+2025-02-22 21:21:41,893 - INFO -  * Debugger PIN: 457-216-587
+2025-02-22 21:22:03,971 - INFO -  * Detected change in 'C:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-22 21:22:03,971 - INFO -  * Detected change in 'C:\\Users\\KIIT\\OneDrive\\Documents\\AD lab\\web-scrapper\\app.py', reloading
+2025-02-22 21:22:05,083 - INFO -  * Restarting with watchdog (windowsapi)
